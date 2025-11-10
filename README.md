@@ -92,7 +92,7 @@ Este simulador permite a estudiantes, ingenieros y profesionales del área visua
 
 <div align="center">
 
-https://github.com/user-attachments/assets/aae13265-7cd0-4c07-a851-da9165e0836d
+https://github.com/user-attachments/assets/2defeba2-7a94-4a0b-8632-fd48df6b8983
 
 *Video demostrativo mostrando el funcionamiento completo del simulador de tratamiento de agua*
 
