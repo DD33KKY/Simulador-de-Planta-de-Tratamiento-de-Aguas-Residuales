@@ -65,7 +65,7 @@ Este simulador permite a estudiantes, ingenieros y profesionales del área visua
 <a href="mailto:sharon.agudelo01@usa.edu.co">📧 Email</a>
 </td>
 <td align="center">
-<img src="https://github.com/identicons/carlos-porras.png" width="100px;" alt="Carlos Porras"/><br />
+<img src="https://github.com/user-attachments/assets/9b43aaf8-ba49-4d64-a080-be5202eabfde" width="100px;" alt="Carlos Porras"/><br />
 <sub><b>Carlos Guillermo Porras Molina</b></sub><br />
 <a href="https://www.linkedin.com/in/carlos-guillermo-porras-molina-042701303/">💼 LinkedIn</a><br />
 <a href="mailto:Carlos.porras01@usa.edu.co">📧 Email</a>
