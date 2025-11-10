@@ -52,7 +52,7 @@ Este simulador permite a estudiantes, ingenieros y profesionales del área visua
 <div align="center">
 
 ### 🎓 **Asignatura: Water Treatment**
-### 👨‍🏫 **Profesor: Victor Lozcano**
+### 👨‍🏫 **Profesor: Victor Lizcano**
 
 </div>
 
